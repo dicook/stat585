@@ -8,5 +8,6 @@ This repository is put together to help Statistics 585 students learn how to use
 6. (optional) Dance Party.
 
 Windows users can learn about how to use tortoise git here:
+
 http://dbanck.de/2009/10/08/github-windows-and-tortoisegit-part-1-installing-pulling/
 
